@@ -149,10 +149,10 @@ a{
         width:100%;
     }
     
-    .game-content > form > table.mail-view th{
+    .game-content > form > table.mail-view >tbody>tr> th{
         width:0px;
     }
-    .game-content > form > .mail-view td{
+    .game-content > form > table.mail-view >tbody>tr> td{
         width:100%;
     }
 }
