@@ -145,4 +145,14 @@ a{
         width:100%;
     }
     
+    .game-content form > .mail-view{
+        width:100%;
+    }
+    
+    .game-content form table.mail-view th{
+        width:0px;
+    }
+    .game-content form > .mail-view td{
+        width:100%;
+    }
 }
