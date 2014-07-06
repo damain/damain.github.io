@@ -30,6 +30,11 @@ a{
     color: gray;
 }
 
+.account-details{
+    background-color: gray;
+    color:black;
+}
+
 
 @media (max-width:500px)
 {
@@ -118,4 +123,5 @@ a{
     .game-header h1{
         font-size: .91em;
     }
+    
 }
