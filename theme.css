@@ -123,5 +123,11 @@ a{
     .game-header h1{
         font-size: .91em;
     }
+    .mail-view tr>th:first-of-type,.mail-view tr>td:first-of-type{
+        width:30%;
+    } 
+    .mail-view tr>th, .mail-view tr>td{
+        width:70%;
+    } 
     
 }
