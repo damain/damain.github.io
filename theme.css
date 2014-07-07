@@ -35,7 +35,7 @@ a{
     color:black;
 }
 
-.game-content table.mail-view tr:nth-child(odd){
+.game-content table.mail-view tr.odd{
         background-color: gray;
     }
 
