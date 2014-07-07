@@ -35,6 +35,9 @@ a{
     color:black;
 }
 
+.game-content table.mail-view tr:nth-child(odd){
+        background-color: gray;
+    }
 
 @media (max-width:500px)
 {
