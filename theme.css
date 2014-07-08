@@ -189,4 +189,14 @@ a{
         border-color: #909090;
         border-style: solid
     }
+    .change-kingdom.change-kingdom-target{
+        min-height: 40px;
+        border-bottom: 1px;
+        border-style: solid;
+        border-color: #909090;
+    }
+    
+    .game-content form.change-kingdom .change-kingdom-form{
+        position:relative;
+    }
 }
