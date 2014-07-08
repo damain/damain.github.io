@@ -27,7 +27,7 @@ a{
 .game-content > div > h2{
     font-style: italic;
     font-size: 0.9em;
-    color: gray;
+    color: #49495f;
 }
 
 #account-details{
@@ -68,7 +68,7 @@ a{
     
     .game-header>h1{
     background-color: teal;
-    color: white;
+    color: #49495f;
 
     }
     
@@ -77,6 +77,8 @@ a{
     }
     #game-navigation{
         width:15%;
+        border-bottom: 1px;
+        border-bottom-color: #49495f;
     }
     #resource-bar{
         position:fixed;
@@ -108,7 +110,7 @@ a{
     #header,#resource-bar{
         width:100%;
         background-color: #b1b1b1;
-        color:white;
+        color:#49495f;
     }
     #header-navigation{
         left:0px;
