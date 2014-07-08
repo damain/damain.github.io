@@ -1,5 +1,6 @@
 body{
     font-family: helvetica, arial;
+    background-color: #ededed;
 }
 
 a{
@@ -67,7 +68,7 @@ a{
     }
     
     .game-header>h1{
-    background-color: teal;
+    background-color: #b1b1b1;
     color: #49495f;
 
     }
