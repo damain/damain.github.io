@@ -175,7 +175,7 @@ a{
     .game-content > form > table.mail-view >tbody>tr> td:first-of-type{
         width:100%;
     }
-    table tr td input{
+    table tr td input[type=text]{
         width:50px;
     }
     input[type=submit] {
