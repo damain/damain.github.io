@@ -179,6 +179,7 @@ a{
         background-color:#00759e;
         padding: 10px;
         border-radius: 3px;
-        
+        border:0px;
+        margin: 0px;
     }
 }
