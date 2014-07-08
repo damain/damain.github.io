@@ -40,12 +40,13 @@ a{
     }
 
 .good{
-    background-color:  green;
+    background-color:  #00c24b;
     color: white;
 }
 
 .bad{
-    color: #dc322f;
+    background-color: #dc322f;
+    color: white;
 }
 
 @media (max-width:700px)
