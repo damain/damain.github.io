@@ -171,4 +171,10 @@ a{
     table tr td input{
         width:50px;
     }
+    input[type=submit] {
+        background-color:#00759e;
+        padding: 10px;
+        border-radius: 3px;
+        
+    }
 }
