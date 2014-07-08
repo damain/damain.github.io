@@ -179,11 +179,8 @@ a{
         width:50px;
         
     }
-    table tr td input[type=submit]{
-        padding: 10px;
-        border-radius: 3px;
-    }
-    input[type=submit] {
+  
+    form input[type=submit], table tr td input[type=submit] {
         background-color:#dfdfdf;
         padding: 10px;
         border-radius: 3px;
