@@ -179,7 +179,7 @@ a{
         width:50px;
         
     }
-    table tr td input[type=button]{
+    table tr td input[type=submit]{
         padding: 10px;
         border-radius: 3px;
     }
