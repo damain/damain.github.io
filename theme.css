@@ -54,7 +54,7 @@ a{
     width: 20px;
 }
 
-table tbody tr{
+table tbody tr.odd{
     border-bottom: 1px dashed light-blue;
 }
 
