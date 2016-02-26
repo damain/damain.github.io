@@ -54,7 +54,7 @@ a{
     width: 20px;
 }
 
-table tbody tr.odd{
+#council-internal-build-effects tbody tr{
     border-bottom: 1px dashed light-blue;
 }
 
