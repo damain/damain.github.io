@@ -197,6 +197,10 @@ table>tbody>tr{
         width:50px;
         
     }
+    
+    #id_subject{
+        width: 200px;
+    }
   
     form input[type=submit], table tr td input[type=submit] {
         background-color:#dfdfdf;
