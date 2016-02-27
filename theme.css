@@ -100,6 +100,11 @@ table>tbody>tr{
         top: 83px; 
         position: relative;
     }
+    
+    #botlinks, #botupdate{
+        left: 100px;
+        top: 176px;
+    }
     #right-column,footer{
         display:none;
     }
