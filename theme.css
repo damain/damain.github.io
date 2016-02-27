@@ -173,6 +173,7 @@ table>tbody>tr{
     } 
     .game-content table.mail-view tr>td >p{
         padding:0;
+        white-space: pre-wrap;
     }
     #content-area{
         padding-left: 5px;
