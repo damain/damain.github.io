@@ -100,10 +100,13 @@ table>tbody>tr{
         top: 83px; 
         position: relative;
     }
-    
+    #toggler{
+        left: 114px !important;
+        top: 177px !important;
+    }
     #botlinks, #botupdate{
-        left: 100px !important;
-        top: 176px !important;
+        left: 114px !important;
+        top: 190px !important;
     }
     #right-column,footer{
         display:none;
