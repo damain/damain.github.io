@@ -95,6 +95,11 @@ table>tbody>tr{
     #resource-bar >tr{
         padding-left:2px
     }
+    
+    #ircchat{
+        top: 83px; 
+        position: relative;
+    }
     #right-column,footer{
         display:none;
     }
