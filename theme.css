@@ -177,6 +177,7 @@ table>tbody>tr{
     .game-content table.mail-view tr>th:first-of-type,.game-content table.mail-view tr>td:first-of-type{
         width:25%;
         padding-right: 5px;
+        min-width: 98px;
     } 
     .game-content table.mail-view tr>th, .game-content table.mail-view tr>td{
         width:75%;
