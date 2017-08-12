@@ -109,6 +109,9 @@ table>tbody>tr{
         left: 42px !important;
         top: 100px !important;
     }
+    #botupdate{
+        margin-top: 15px !important;
+    }
     #overlay{
         z-index: 1 !important;
         float: none !important;
