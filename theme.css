@@ -111,7 +111,7 @@ table>tbody>tr{
     }
     #botupdate{
         margin-top: 28px !important;
-        margin-left: 28.5px !important;
+        margin-left: -28.5px !important;
     }
     #overlay{
         z-index: 1 !important;
