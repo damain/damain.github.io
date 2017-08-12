@@ -105,8 +105,13 @@ table>tbody>tr{
         top: 85px !important;
     }
     #botlinks, #botupdate{
-        left: 114px !important;
-        top: 190px !important;
+        left: 42px !important;
+        top: 100px !important;
+    }
+    #overlay{
+        z-index: 1;
+        float: none;
+        width:100%
     }
     #right-column,footer{
         display:none;
@@ -129,6 +134,7 @@ table>tbody>tr{
         width:100%;
         background-color: #b1b1b1;
         color:#49495f;
+        z-index: 2;
     }
     #header-navigation{
         left:0px;
