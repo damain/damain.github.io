@@ -110,7 +110,8 @@ table>tbody>tr{
         top: 100px !important;
     }
     #botupdate{
-        margin-top: 15px !important;
+        margin-top: 28px !important;
+        margin-left: 28.5px !important;
     }
     #overlay{
         z-index: 1 !important;
