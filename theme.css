@@ -84,6 +84,7 @@ table>tbody>tr{
         width:15%;
         border-bottom: 1px;
         border-bottom-color: #49495f;
+        margin-top: 31px;
     }
     #resource-bar{
         position:fixed;
