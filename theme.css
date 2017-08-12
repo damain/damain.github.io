@@ -220,7 +220,7 @@ table>tbody>tr{
     }
     
     a.button-link.forum-edit-button{
-        padding: 10px;
+        padding: 6px;
         border-radius: 3px;
         border:1px;
         margin: 0px;
@@ -232,7 +232,7 @@ table>tbody>tr{
   
     form input[type=submit], table tr td input[type=submit] {
         background-color:#dfdfdf;
-        padding: 10px;
+        padding: 6px;
         border-radius: 3px;
         border:1px;
         margin: 0px;
